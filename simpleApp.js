@@ -1,3 +1,5 @@
+Gatot Sucipto JackFox
+
 --------------------
   GAME MOTOGP 2017
 --------------------

@@ -1,18 +1,18 @@
-Gatot Sucipto JackFox
+// Gatot Sucipto JackFox
 
---------------------
-  GAME MOTOGP 2017
---------------------
-Pseudocode:
+// --------------------
+//   GAME MOTOGP 2017
+// --------------------
+// Pseudocode:
 
-PILIH dan SIMPAN "objek pertama"
-PISAHKAN dan SIMPAN "objek kedua"
-URUTKAN "objek kedua" ambil "urutan pertama"
-SIMPAN "urutan pertama", "urutan kedua" dan "urutan ketiga"
-HITUNG "objek ketiga" dibagi lima
-TAMPILKAN hasil hitungan kelipatan lima
+// PILIH dan SIMPAN "objek pertama"
+// PISAHKAN dan SIMPAN "objek kedua"
+// URUTKAN "objek kedua" ambil "urutan pertama"
+// SIMPAN "urutan pertama", "urutan kedua" dan "urutan ketiga"
+// HITUNG "objek ketiga" dibagi lima
+// TAMPILKAN hasil hitungan kelipatan lima
 
-Code:
+// Code:
 
 function motoGp2017(player) {
 
